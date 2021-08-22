@@ -13,12 +13,12 @@ When I’m not coding or reading technical book and blogs, you will find me play
   * Learning to work in a professional team and improving my front-end software development skills on Hume, a cutting-edge NLP-focused graph-powered insights engine.
 
 # IT-Expert
-## CiS ELECTRONIC GmbH
-* Implemented a Moodle-based online learning platform and developed training content. The system has been up and running for two years and its usage is growing constantly.
-* Other responsibilities included:
-  * Customer support
-  * intranet management and maintenance
-  * Device management
+* CiS ELECTRONIC GmbH
+ * Implemented a Moodle-based online learning platform and developed training content. The system has been up and running for two years and its usage is growing constantly.
+ * Other responsibilities included:
+   * Customer support
+   * intranet management and maintenance
+   * Device management
 
 # Skills:
 * C#
@@ -36,3 +36,7 @@ When I’m not coding or reading technical book and blogs, you will find me play
 * Cisco certified
 * SQL
 * Python
+
+# Contact
+* Email: joseph.soukup@outlook.com
+* LinkedIn: https://www.linkedin.com/in/joseph-soukup-707327187/
