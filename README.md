@@ -5,11 +5,11 @@ I have recently finished my engineering-focused high school studies with excelle
 
 When I’m not coding or reading technical book and blogs, you will find me playing football, working out in the gym, running in city, working on my Brazilian jiu jitsu skills, baking cakes and cooking delicious food. I am a native German and Czech speaker.
 
-# Summer Internship
+## Summer Internship
 * GraphAware - Full-time
   * Learning to work in a professional team and improving my front-end software development skills on Hume, a cutting-edge NLP-focused graph-powered insights engine.
 
-# IT-Expert
+## IT-Expert
 * CiS ELECTRONIC GmbH
  * Implemented a Moodle-based online learning platform and developed training content. The system has been up and running for two years and its usage is growing constantly.
  * Other responsibilities included:
@@ -17,7 +17,7 @@ When I’m not coding or reading technical book and blogs, you will find me play
    * intranet management and maintenance
    * Device management
 
-# Skills:
+## Skills:
 * C#
 * ASP.NET
 * Console Applications
