@@ -18,21 +18,37 @@ When I’m not coding or reading technical book and blogs, you will find me play
    * Device management
 
 ## Skills:
-* C#
-* ASP.NET
-* Console Applications
-* WPF/UWP
-* HTML
-* CSS
-* Bootstrap
-* Material UI
-* Javascript
-* Typescript
-* React
-* Neo4j certified
-* Cisco certified
-* SQL
-* Python
+Skills:
+- Javascript/Typescript
+  - React
+  - Vue
+  - Nextjs
+  - Express
+  - Node
+- HTML
+- CSS
+  - Bootstrap
+  - Material UI
+  - Tailwind
+- Testing
+  - Cypress
+  - Playwright
+  - Jest
+- C#
+  - ASP.NET
+  - Console Applications
+  - WPF/UWP
+- Neo4j certified
+- Building Neo4j Applications with Python Certification
+- Cisco certified
+- SQL
+- MongoDB
+- Python
+- Docker
+- Git (Github/Gitlab)
+- Confluence
+- Figma
+- Miro
 
 # Contact
 * Email: joseph.soukup@outlook.com
